@@ -1,155 +1,156 @@
 🟢 PHASE 1: Core Fundamentals (Foundation)
 👉 Goal: Understand how Spring Boot works internally
+
 Topics:
-Introduction to Spring Boot
-Why Spring Boot (problems in Spring)
-Spring Architecture
-IOC (Inversion of Control) Container
-Creating your first Spring Boot project
-Project structure understanding
-Application.properties / configuration
-Spring Beans
-Dependency Injection
-Spring Context
-Annotations
-Auto-configuration
+1. Introduction to Spring Boot
+2. Why Spring Boot (problems in Spring)
+3. Spring Architecture
+4. IOC (Inversion of Control) Container
+5. Creating your first Spring Boot project
+6. Project structure understanding
+7. Application.properties / configuration
+8. Spring Beans
+9. Dependency Injection
+10. Spring Context
+11. Annotations
+12. Auto-configuration
 📌 Outcome:
  You understand how Spring Boot starts & manages objects
 
 🟡 PHASE 2: Spring MVC (Build APIs)
 👉 Goal: Build REST APIs
 Topics:
-Spring MVC architecture
-Controllers
-REST API development
-Request/Response handling
-Data binding & validation
-Exception handling
-Interceptors
+1. Spring MVC architecture
+2. Controllers
+3. REST API development
+4. Request/Response handling
+5. Data binding & validation
+6. Exception handling
+7. Interceptors
 📌 Outcome:
  You can build real backend APIs
 
 🟠 PHASE 3: Database Layer (JPA & Hibernate)
 👉 Goal: Connect backend to database
 Topics:
-Spring Data JPA
-Repository pattern
-Entity mapping
-Relationships (OneToMany, etc.)
-Fetch strategies
-Query methods
-JPQL & native queries
-Pagination & sorting
-Transactions
-Locking (optimistic & pessimistic)
+1. Spring Data JPA
+2. Repository pattern
+3. Entity mapping
+4. Relationships (OneToMany, etc.)
+5. Fetch strategies
+6. Query methods
+7. JPQL & native queries
+8. Pagination & sorting
+9. Transactions
+10. Locking (optimistic & pessimistic)
 📌 Outcome:
  You can build CRUD apps with DB integration
 
 🔵 PHASE 4: Production-Ready Features
 👉 Goal: Make apps real-world ready
 Topics:
-DevTools
-Logging
-REST client
-Actuator (health, metrics)
-Swagger API documentation
-Auditing
+1. DevTools
+2. Logging
+3. REST client
+4. Actuator (health, metrics)
+5. Swagger API documentation
+6. Auditing
 📌 Outcome:
  You can build professional-grade applications
 
 🔐 PHASE 5: Security (VERY IMPORTANT)
 👉 Goal: Secure APIs
 Basics:
-Spring Security intro
-CSRF, XSS, SQL Injection
-SecurityFilterChain
-JWT authentication
-Login/signup with JWT
+1. Spring Security intro
+2. CSRF, XSS, SQL Injection
+3. SecurityFilterChain
+4. JWT authentication
+5. Login/signup with JWT
 Advanced:
-Refresh & Access Tokens
-OAuth2
-Role-based authorization
-Method-level security
+6. Refresh & Access Tokens
+7. OAuth2
+8. Role-based authorization
+9. Method-level security
 📌 Outcome:
  You can build secure APIs used in real companies
 
 🧪 PHASE 6: Testing
 👉 Goal: Write reliable code
 Topics:
-Unit testing
-Integration testing
-JUnit, Mockito
-TestContainers
-Coverage (JaCoCo)
+1. Unit testing
+2. Integration testing
+3. JUnit, Mockito
+4. TestContainers
+5. Coverage (JaCoCo)
 📌 Outcome:
  You can write testable and maintainable code
 
 ☁️ PHASE 7: Deployment & CI/CD
 👉 Goal: Run apps in production
 Topics:
-AWS deployment (Elastic Beanstalk)
-RDS database setup
-Spring Profiles
-CI/CD pipelines
-Database migration (Flyway)
+1. AWS deployment (Elastic Beanstalk)
+2. RDS database setup
+3. Spring Profiles
+4. CI/CD pipelines
+5. Database migration (Flyway)
 📌 Outcome:
  You can deploy real-world applications
 
 ⚙️ PHASE 8: Advanced Concepts
 👉 Goal: Deep understanding
 Topics:
-AOP (Aspect-Oriented Programming)
-Pointcuts & Advice
-Use cases (logging, security)
+1. AOP (Aspect-Oriented Programming)
+2. Pointcuts & Advice
+3. Use cases (logging, security)
 📌 Outcome:
  You understand cross-cutting concerns
 
 ⚡ PHASE 9: Performance & Data Handling
 👉 Goal: Optimize applications
 Topics:
-Caching (Redis)
-Transactions & ACID
-Concurrency handling
+1. Caching (Redis)
+2. Transactions & ACID
+3. Concurrency handling
 📌 Outcome:
  You can build high-performance systems
 
 🐳 PHASE 10: Containerization
 👉 Goal: Package apps
 Topics:
-Docker
-Docker Compose
+1. Docker
+2. Docker Compose
 📌 Outcome:
  You can run apps anywhere consistently
 
 🧩 PHASE 11: Microservices (CORE INDUSTRY SKILL)
 👉 Goal: Build scalable systems
 Basic:
-Microservices architecture
-Service discovery (Eureka)
-API Gateway
-OpenFeign
+1. Microservices architecture
+2. Service discovery (Eureka)
+3. API Gateway
+4. OpenFeign
 Advanced:
-Circuit breaker (Resilience4j)
-Centralized config
-Distributed tracing (Zipkin)
-Logging (ELK stack)
+5. Circuit breaker (Resilience4j)
+6. Centralized config
+7. Distributed tracing (Zipkin)
+8. Logging (ELK stack)
 📌 Outcome:
  You can build scalable distributed systems
 
 📨 PHASE 12: Event-Driven Systems
 👉 Goal: Handle async systems
 Topics:
-Apache Kafka
-Producers & Consumers
-Schema registry
+1. Apache Kafka
+2. Producers & Consumers
+3. Schema registry
 📌 Outcome:
  You can build event-driven architectures
 
 ⏱️ PHASE 13: Background Processing
 👉 Goal: Handle async tasks
 Topics:
-Multithreading
-Task scheduling
-Async processing
+1. Multithreading
+2. Task scheduling
+3. Async processing
 📌 Outcome:
  You can build scalable background systems
